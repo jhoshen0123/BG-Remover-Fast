@@ -1,0 +1,6 @@
+{
+  "name": "EraseCraft AI - Professional Background Remover",
+  "description": "Ultra-fast, studio-quality AI background removal tool with client-side privacy, manual refinement brush, batch processing, and HD export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
